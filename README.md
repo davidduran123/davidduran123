@@ -33,10 +33,16 @@ printf("%d more to go!", left_to_catch);
 
 past challenge: [akon](https://www.codedex.io/@davidsmexican/30-nites-of-code?pet=season-one) 
 
----
-## let's connect!
+#
+<div style="text-align:center;">
+  <h4>let's connect!</h4>
+  <a href="https://www.codedex.io/@davidsmexican"> 
+    <img src="https://github.com/davidduran123/davidduran123/assets/76709805/785b34dc-c099-4dfa-a885-64e746f34a97" alt="codedex-bot-logo" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/david-duran-9999782a2/"> 
+    <img src="https://github.com/davidduran123/davidduran123/assets/76709805/78db2d58-410b-41e1-8899-8a12aae504a9" alt="linkedin logo" width="50">
+  </a>
+</div>
 
-<a href="https://www.codedex.io/@davidsmexican"> 
-  <img src="https://github.com/davidduran123/davidduran123/assets/76709805/785b34dc-c099-4dfa-a885-64e746f34a97" alt="codedex-bot-logo" width="50">
-</a>
+
 
