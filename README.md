@@ -1,7 +1,8 @@
 # 👾 David Durán Fuentes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=30&duration=2000&pause=500&color=271B4E&background=7A79FF00&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=hello+world!;welcome+to+my+profile+%3AD)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&duration=3000&pause=3000&color=271B4E&background=7A79FF00&random=false&height=80&lines=hello+world!)](https://git.io/typing-svg)
 ![1000005577](https://github.com/davidduran123/davidduran123/assets/76709805/bac18fce-13af-479b-9e59-f6855c1cacd3)
+
 
 ## about me
 ```C
