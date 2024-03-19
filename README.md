@@ -1,5 +1,5 @@
 # 👾 David Durán Fuentes
-Ahoy! It's great pleasure to (virtually) meet you! I'm a second year CS student at Concordia University in Montréal.
+Ahoy! It's great pleasure to *(virtually)* meet you! I'm a second year CS student at Concordia University in Montréal.
 
 ## my codédex pets
 *I will collect them all!*
