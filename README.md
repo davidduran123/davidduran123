@@ -8,13 +8,13 @@
 printf("Ahoy!"); 
 ```
 
-It's pleasure to *(virtually)* meet you!
+It's pleasure to *(virtually)* meet you! 👋
 
 I'm just a second-year CS student, hitting the books by day and building my brick-and-mortar thrift store business by night.
 I began my coding journey a little over a year ago, printing my first 'Hello World' in Java, and immediately felt the power in my hands!
 So far this year, I've learned the basics of C, Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
 
-With a diverse background spanning graphic design, music production, pure and applied sciences/mathematics, and entrepreneurship, I'm confident in my ability to bring a valuable perspective to any project.
+With a diverse background spanning graphic design, music production, pure and applied sciences/mathematics, and entrepreneurship, I'm confident in my ability to bring a valuable perspective to any project. ✅
 ## my codédex pets
 
 ```C
