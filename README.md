@@ -41,7 +41,8 @@ printf("%d more to go!", left_to_catch);
 # projects
 ***nothing to see here...YET!***
 
-![tumblr_f56bd7534c8f152a16fc124aa066dee2_dac5d84e_640](https://github.com/davidduran123/davidduran123/assets/76709805/25e1610f-4f79-47a8-b01a-645336ecaa54)
+![5244f2f9d75b](https://github.com/davidduran123/davidduran123/assets/76709805/030b7140-77bb-422e-ade0-341fe043b9eb)
+
 
 # learning checklist
 - [X] C
