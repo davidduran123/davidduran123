@@ -38,6 +38,11 @@ printf("%d more to go!", left_to_catch);
 <img src="https://github.com/davidduran123/davidduran123/assets/76709805/f739b962-8230-4434-9033-7340ac07d0ed" alt="C-logo" width="50"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/davidduran123/davidduran123/assets/76709805/2e378161-bc4a-4ed9-837f-3b3436bffac2" alt="python-logo" width="50">
 
+# projects
+***nothing to see here...YET!***
+
+![tumblr_f56bd7534c8f152a16fc124aa066dee2_dac5d84e_640](https://github.com/davidduran123/davidduran123/assets/76709805/25e1610f-4f79-47a8-b01a-645336ecaa54)
+
 # learning checklist
 - [X] C
 - [X] Python
@@ -47,7 +52,6 @@ printf("%d more to go!", left_to_catch);
 - [ ] C++
 - [ ] CS50
 - [ ] Odin Project
-
 
 # let's connect!
 <div style="text-align:center;">
