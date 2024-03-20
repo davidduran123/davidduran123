@@ -3,7 +3,7 @@
 ![1000005577](https://github.com/davidduran123/davidduran123/assets/76709805/bac18fce-13af-479b-9e59-f6855c1cacd3)
 
 
-## about me
+# about me
 ```C
 printf("Ahoy!"); 
 ```
@@ -15,7 +15,7 @@ I began my coding journey a little over a year ago, printing my first 'Hello Wor
 So far this year, I've learned the basics of C, Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
 
 With a diverse background spanning graphic design, music production, pure and applied sciences/mathematics, and entrepreneurship, I'm confident in my ability to bring a valuable perspective to any project. ✅
-## my codédex pets
+# my codédex pets
 
 ```C
 printf("Gotta catch 'em all!");
@@ -31,11 +31,25 @@ printf("%d more to go!", left_to_catch);
 
 ***current challenge:*** ***[lex](https://www.codedex.io/@davidsmexican/30-nites-of-code)***
 
-past challenge: [akon](https://www.codedex.io/@davidsmexican/30-nites-of-code?pet=season-one) 
+*past challenge:* [akon](https://www.codedex.io/@davidsmexican/30-nites-of-code?pet=season-one) 
 
-#
+# technologies
+<img src="https://github.com/davidduran123/davidduran123/assets/76709805/fb2405a5-db8e-4124-8889-16cbad1fa070" alt="java-logo" width="50">  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/davidduran123/davidduran123/assets/76709805/f739b962-8230-4434-9033-7340ac07d0ed" alt="C-logo" width="50"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/davidduran123/davidduran123/assets/76709805/2e378161-bc4a-4ed9-837f-3b3436bffac2" alt="python-logo" width="50">
+
+# learning checklist
+- [X] C
+- [X] Python
+- [ ] NeoVim (in progess)
+- [ ] Clojure (in progess)
+- [ ] C++
+- [ ] CS50
+- [ ] Odin Project
+
+
+# let's connect!
 <div style="text-align:center;">
-  <h4>let's connect!</h4>
   <a href="https://www.codedex.io/@davidsmexican"> 
     <img src="https://github.com/davidduran123/davidduran123/assets/76709805/785b34dc-c099-4dfa-a885-64e746f34a97" alt="codedex-bot-logo" width="50">
   </a>
@@ -43,6 +57,5 @@ past challenge: [akon](https://www.codedex.io/@davidsmexican/30-nites-of-code?pe
     <img src="https://github.com/davidduran123/davidduran123/assets/76709805/78db2d58-410b-41e1-8899-8a12aae504a9" alt="linkedin logo" width="50">
   </a>
 </div>
-
 
 
