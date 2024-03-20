@@ -43,6 +43,7 @@ printf("%d more to go!", left_to_catch);
 - [X] Python
 - [ ] NeoVim (in progess)
 - [ ] Clojure (in progess)
+- [ ] Data Structures and Algorithms
 - [ ] C++
 - [ ] CS50
 - [ ] Odin Project
